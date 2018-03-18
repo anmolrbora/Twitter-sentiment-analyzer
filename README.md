@@ -1,5 +1,8 @@
-# twitter-analyzer
-Twitter Sentiment Analyzer using Naive Bayes
+# Twitter-sentiment-analyzer
 
-The project focuses on the sentiment of a tweet. It is a offline twitter analyzer. I have included the .csv file as a dataset and used a pickel model named model.pkl to save the trained model.
-NLTK is used for analysis of sentences.
+The project focuses wide ranges of tweets and various sentiments like positive, negative and neutral. It is an offline twitter sentiment analyzer. NLTK is used for analysis of sentences. Regular Expressions is used to break down the tweets into words, remove the stopwords and create a feature vector.
+
+Run 'main.py'.
+'training_neatfile_4.csv' contains label data. 
+Pre-trained model is saved as 'model.pkl'.
+
