@@ -4,5 +4,5 @@ The project focuses wide ranges of tweets and various sentiments like positive, 
 
 1. Run `main.py`.
 2. `training_neatfile_4.csv` contains labelled data.
-3. Pre-trained model is saved as `model.pkl`.
+3. Pre-trained model is saved in `model.pkl`.
 
